@@ -1,0 +1,10 @@
+# Bison generated files
+*.tab.c
+*.tab.h
+*.output
+*.cc
+
+# Compiler build outputs
+*.o
+*.out
+*.exe
